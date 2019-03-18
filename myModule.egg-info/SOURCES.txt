@@ -1,0 +1,9 @@
+README.md
+setup.py
+myModule.egg-info/PKG-INFO
+myModule.egg-info/SOURCES.txt
+myModule.egg-info/dependency_links.txt
+myModule.egg-info/requires.txt
+myModule.egg-info/top_level.txt
+mypackage/__init__.py
+mypackage/myModule.py
